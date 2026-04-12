@@ -36,7 +36,6 @@ It allows users to perform CRUD operations on employee data with authentication 
 ## 📁 Project Structure
 
 EmployeeWebApp
-│
 ├── src/main/java/com/emp
 │   ├── controller
 │   ├── dao
@@ -116,6 +115,28 @@ http://localhost:8080/EmployeeWebApp/
 * Localhost
 
 ---
+## 📸 Screenshots
+
+### Login page
+
+<img width="1918" height="991" alt="Screenshot 2026-04-12 080928" src="https://github.com/user-attachments/assets/3bfc027e-a5cb-4299-8dfb-a697283d2a5a" />
+
+
+### 🏠 Home Page
+
+<img width="1919" height="1004" alt="Screenshot 2026-04-12 080949" src="https://github.com/user-attachments/assets/d93ba050-5b9e-4b24-9563-c33ce1842652" />
+
+
+### 📋 Employee List
+
+<img width="1919" height="1004" alt="Screenshot 2026-04-12 081014" src="https://github.com/user-attachments/assets/860dcc5e-a3ee-4c2c-bc5b-c4a870cbae20" />
+
+
+
+### ➕ Add Employee
+
+<img width="1919" height="1001" alt="Screenshot 2026-04-12 081001" src="https://github.com/user-attachments/assets/f1350d28-350d-4fe2-ae1c-3d2026505ad7" />
+
 
 ## 📌 Future Improvements
 
