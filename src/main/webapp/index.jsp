@@ -167,7 +167,7 @@ a:hover {
 
     <!-- 🔥 MOVING TITLE -->
     <div class="marquee">
-        <h2>Employee Management System</h2>
+        <h2>Student Management System</h2>
     </div>
 
     <!-- 🔍 SEARCH -->
